@@ -1,4 +1,4 @@
-const EMAILJS_SERVICE_ID = "gajogae-yupum";
+const EMAILJS_SERVICE_ID = "gyeonggi-gajogae-yupum";
 const EMAILJS_TEMPLATE_ID = "template_wwbariw";
 const EMAILJS_PUBLIC_KEY = "JKsVOKPtnWHIr2BCV";
 
