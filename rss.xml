@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
+
 <title>가족애유품정리 경기</title>
 <link>https://gyeonggi.gajogae-yupum.com</link>
 <description>경기도 유품정리, 고독사청소, 특수청소 상담 안내</description>
 <language>ko-KR</language>
+<lastBuildDate>Wed, 17 Jun 2026 00:00:00 GMT</lastBuildDate>
 
 <item>
-<title>경기도 유품정리 상담 안내</title>
+<title>경기 유품정리 메인</title>
 <link>https://gyeonggi.gajogae-yupum.com/</link>
 <description>경기도 전지역 유품정리 상담 안내</description>
 <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
@@ -31,6 +33,48 @@
 <title>고양시 유품정리</title>
 <link>https://gyeonggi.gajogae-yupum.com/goyang.html</link>
 <description>고양시 유품정리 상담 안내</description>
+<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>용인시 유품정리</title>
+<link>https://gyeonggi.gajogae-yupum.com/yongin.html</link>
+<description>용인시 유품정리 상담 안내</description>
+<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>화성시 유품정리</title>
+<link>https://gyeonggi.gajogae-yupum.com/hwaseong.html</link>
+<description>화성시 유품정리 상담 안내</description>
+<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>남양주시 유품정리</title>
+<link>https://gyeonggi.gajogae-yupum.com/namyangju.html</link>
+<description>남양주시 유품정리 상담 안내</description>
+<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>평택시 유품정리</title>
+<link>https://gyeonggi.gajogae-yupum.com/pyeongtaek.html</link>
+<description>평택시 유품정리 상담 안내</description>
+<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>의정부시 유품정리</title>
+<link>https://gyeonggi.gajogae-yupum.com/uijeongbu.html</link>
+<description>의정부시 유품정리 상담 안내</description>
+<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>파주시 유품정리</title>
+<link>https://gyeonggi.gajogae-yupum.com/paju.html</link>
+<description>파주시 유품정리 상담 안내</description>
 <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
 </item>
 
