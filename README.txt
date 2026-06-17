@@ -1,0 +1,1 @@
+이 압축 파일의 index.html, script.js, sitemap.xml, robots.txt, 경기 31개 시군 html 파일을 gyeonggi-gajogae-yupum 폴더에 덮어쓰기 하세요. images 폴더와 style.css는 기존 복사본을 그대로 사용하면 됩니다.

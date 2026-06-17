@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.gyeonggi.gajogae-yupum.com/sitemap.xml
